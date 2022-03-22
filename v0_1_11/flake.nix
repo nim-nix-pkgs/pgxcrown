@@ -9,7 +9,7 @@
   
   inputs.src-pgxcrown-v0_1_11.flake = false;
   inputs.src-pgxcrown-v0_1_11.owner = "luisacosta828";
-  inputs.src-pgxcrown-v0_1_11.ref   = "refs/tags/v0.1.11";
+  inputs.src-pgxcrown-v0_1_11.ref   = "v0_1_11";
   inputs.src-pgxcrown-v0_1_11.repo  = "pgxcrown";
   inputs.src-pgxcrown-v0_1_11.type  = "github";
   

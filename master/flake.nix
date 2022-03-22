@@ -9,7 +9,7 @@
   
   inputs.src-pgxcrown-master.flake = false;
   inputs.src-pgxcrown-master.owner = "luisacosta828";
-  inputs.src-pgxcrown-master.ref   = "refs/heads/master";
+  inputs.src-pgxcrown-master.ref   = "master";
   inputs.src-pgxcrown-master.repo  = "pgxcrown";
   inputs.src-pgxcrown-master.type  = "github";
   
