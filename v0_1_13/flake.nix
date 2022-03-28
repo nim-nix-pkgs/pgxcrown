@@ -11,7 +11,6 @@
   inputs.src-pgxcrown-v0_1_13.ref   = "refs/tags/v0.1.13";
   inputs.src-pgxcrown-v0_1_13.owner = "luisacosta828";
   inputs.src-pgxcrown-v0_1_13.repo  = "pgxcrown";
-  inputs.src-pgxcrown-v0_1_13.dir   = "";
   inputs.src-pgxcrown-v0_1_13.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
