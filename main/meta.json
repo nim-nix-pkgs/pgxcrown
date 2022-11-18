@@ -1,8 +1,0 @@
-{
-  "description": "Build Postgres extensions in Nim.",
-  "license": "MIT",
-  "name": "pgxcrown",
-  "ref": "refs/heads/main",
-  "url": "https://github.com/luisacosta828/pgxcrown",
-  "version": "main"
-}
